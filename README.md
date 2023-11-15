@@ -1,4 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Christian! <br><a href="https://github.com/ctucker41">Software Developer</a>, <a href="https://www.linkedin.com/in/christian-tucker-55b423196/">Cybersecurity Professional</a>
+
+<h2>Development Projects:</h2>
+
+- <b>Project 1</b>
+  - 
+
+<h2>Certificates</h2>
+- <b>CompTIA A+ (Expected January 2024)</b> <br> 
+- <b>CompTIA Security+ (Expected February 2024)</b> <br>
+- <b>Google Cybersecurity Professional (Expected January 2024)</b> <br>
+
+<h2>Connect with me: </h2>
+
+[<img align="left" alt="ChristianTucker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/christian-tucker-55b423196/
 
 <!--
 **ctucker41/ctucker41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
