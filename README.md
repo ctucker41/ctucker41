@@ -5,6 +5,9 @@
 - <b>Project 1</b>
   - 
 
+<h2>About Me</h2>
+<b>I'm currently working on HTML/CSS, JavaScript, and HTML based projects. I am completing multiple certifications in both the cybersecurity and software development fields.</b>
+
 <h2>Certificates</h2>
 - <b>CompTIA A+ (Expected January 2024)</b> <br> 
 - <b>CompTIA Security+ (Expected February 2024)</b> <br>
