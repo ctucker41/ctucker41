@@ -16,6 +16,9 @@
 <h2>Connect with me: </h2>
 
 [<img align="left" alt="ChristianTucker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="mailto:ctuckercareers@yahoo.com">
+  <img align="left" alt="ChristianTucker | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />
+</a>
 
 [linkedin]: https://linkedin.com/in/christian-tucker-55b423196/
 
