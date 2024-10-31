@@ -1,14 +1,12 @@
-<!--
-**ctucker41/ctucker41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>Christian Tucker</h1>
+    <h2>Currently Studying Computer Programming & Analysis at Valencia College</h2>
+    <p>Currently working with C++ and C. Strong interest in Cybersecurity and Networking and hoping to improve my skill with security in code and best coding practice. </p>
+</body>
+</html>
