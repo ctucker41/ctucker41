@@ -10,7 +10,7 @@ Currently completing my AS in Computer Programming & Analysis at Valencia Colleg
 
 - TypeScript
 - JavaScript
-- - Tailwind CSS
+- Tailwind CSS
 - C
 - C++
 - Python
