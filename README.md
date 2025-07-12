@@ -8,16 +8,16 @@ Currently completing my AS in Computer Programming & Analysis at Valencia Colleg
 
 ### 🚀 Languages & Tools
 
+- TypeScript
+- JavaScript
+- - Tailwind CSS
 - C
 - C++
 - Python
-- TypeScript
-- JavaScript
 - Ruby
 - SQL
 - HTML5
 - CSS3
-- Tailwind CSS
 - Bash
 - PowerShell
 
@@ -25,9 +25,9 @@ Currently completing my AS in Computer Programming & Analysis at Valencia Colleg
 - React
 - Next.js
 - Node.js
-- AWS
 - Vercel
 - Git
+- AWS
 - Linux (Debian-based)
 - Windows
 
